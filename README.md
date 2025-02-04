@@ -11,7 +11,7 @@
   
 ![image](https://github.com/LaluDeyndra/LaluDeyndra/assets/143301086/b4b6037d-99d1-4c0e-b6c8-a992fd57d399) ![image](https://github.com/LaluDeyndra/LaluDeyndra/assets/143301086/0a3241ab-e4f2-469b-b5f3-78aeb1505c1c) ![image](https://github.com/LaluDeyndra/LaluDeyndra/assets/143301086/6b2ec2f0-291c-482d-9cee-8f195adc3b57)
 
-hopefully i can be a professional web development :)
+hopefully i can be a professional web developer :)
 
 
 

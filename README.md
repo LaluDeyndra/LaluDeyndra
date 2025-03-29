@@ -40,7 +40,7 @@
     </a> 
     &nbsp;&nbsp;&nbsp; <!-- Memberi jarak tambahan -->
     <a href="https://laravel.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> 
     </a> 
     &nbsp;&nbsp;&nbsp; <!-- Memberi jarak tambahan -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 

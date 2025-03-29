@@ -46,3 +46,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
     </a> 
 </p>
+
+<!-- Add this CSS in your style section or external stylesheet -->
+<style>
+    a {
+        text-decoration: none;
+        outline: none;
+        border: none;
+    }
+</style>

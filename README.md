@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://www.lalude.site/]
+- 👨‍💻 All of my projects are available at https://www.lalude.site/
 
 - 💬 Ask me about **JavaScript**
 

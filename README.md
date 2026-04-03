@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lalu Deyndra</h1>
-<h3 align="center">A man who works as a Back-End Developer</h3>
+<h3 align="center">A man who works as a Website Developer</h3>
 
 - 🔭 I’m currently working on **Discord Gacha Bot**
 

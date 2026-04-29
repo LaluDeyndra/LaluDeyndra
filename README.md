@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>👋 Hello World, I'm Lalu Deyndra! 🚀</h1>
-  <h3>✨ Full-Stack Website Developer | Tech Enthusiast ✨</h3>
+  <h1>Hello World, I'm Lalu Deyndra!</h1>
+  <h3>Full-Stack Website Developer | Tech Enthusiast</h3>
   <p><i>"Building robust web solutions and bringing ideas to life through code (with a side of good humor!)."</i></p>
 </div>
 
 ---
 
-## ⚡ Quick Bio
+## Quick Bio
 
 - 🔭 **Currently building:** The [Arctic Vision Platform](https://arvi.life/) 
 - 🌱 **Leveling up on:** Modern Web Frameworks & IoT Integrations
@@ -17,9 +17,9 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-**Frontend Development** <p align="left">
+**Frontend** <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -28,14 +28,14 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-**Backend Development** <p align="left">
+**Backend** <p align="left">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
 </p>
 
-**Database, Tools & IoT** <p align="left">
+**Database, Tools** <p align="left">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />

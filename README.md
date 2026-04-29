@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hello World, I'm Lalu Deyndra!</h1>
+  <h1>👋 Hello World, I'm Lalu Deyndra</h1>
   <h3>Full-Stack Website Developer | Tech Enthusiast</h3>
-  <p><i>"Building robust web solutions and bringing ideas to life through code (with a side of good humor!)."</i></p>
+  <p><i>"Building robust web solutions and bringing ideas to life through code (with a side of good humor)."</i></p>
 </div>
 
 ---
@@ -10,9 +10,9 @@
 
 - 🔭 **Currently building:** The [Arctic Vision Platform](https://arvi.life/) 
 - 🌱 **Leveling up on:** Modern Web Frameworks & IoT Integrations
-- 💬 **Let's talk about:** JavaScript, Backend Architecture, or how to fix a pesky bug!
+- 💬 **Let's talk about:** JavaScript, Backend Architecture, or how to fix a pesky bug
 - 🎯 **Portfolio:** Check out my latest work at [lalude.site](https://www.lalude.site/)
-- 😄 **Fun Fact:** I'm a humorist at heart—because if your code is going to break, you might as well laugh about it!
+- 😄 **Fun Fact:** I'm a humorist at heart—because if your code is going to break, you might as well laugh about it
 - 📫 **Reach me at:** [laludeyndrafavian@gmail.com](mailto:laludeyndrafavian@gmail.com)
 
 ---
@@ -43,9 +43,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LaluDeyndra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaluDeyndra&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=LaluDeyndra&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
